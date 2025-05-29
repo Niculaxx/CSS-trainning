@@ -1,13 +1,16 @@
 div {
-  color: white;
+  color: rgb(60, 226, 69);
 }
 
 .alert-text {
     color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 33px;
 }
 
 #title {
     background-color: red;
+    color: rgb(0, 0, 0);
 }
 
 .read,
@@ -22,4 +25,8 @@ div {
 
 .subsection#preview {
     color: blue;
+}
+
+.ancestor .contents {
+    color: rgb(204, 38, 168);
 }
