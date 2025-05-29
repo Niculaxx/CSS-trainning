@@ -1,0 +1,25 @@
+div {
+  color: white;
+}
+
+.alert-text {
+    color: red;
+}
+
+#title {
+    background-color: red;
+}
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.subsection.header {
+    color: red;
+}
+
+.subsection#preview {
+    color: blue;
+}
